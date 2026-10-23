@@ -8,8 +8,8 @@ mLekha is a personal-finance application that helps users track income, expenses
 
 mLekha does not require users to create an account or sign in. Transaction and financial information is intended to be processed and stored locally on the user's device, rather than uploaded to a server operated by the developer.
 
-**Developer/publisher:** mLekha  
-**Privacy contact:** affairscurrent24@gmail.com
+Developer/publisher: mLekha  
+Privacy contact: affairscurrent24@gmail.com
 
 ## 2. Information the app accesses and processes
 
@@ -77,6 +77,6 @@ This policy may be updated when app functionality, permissions, data handling, o
 
 For questions or concerns about this privacy policy or mLekha's handling of information, contact:
 
-**Developer/publisher:** [Enter your name or legal business name]  
-**Email:** [Enter a monitored contact email]
+Developer/publisher: mLekha 
+Email: affairscurrent24@gmail.com
 
