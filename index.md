@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-mLekha is a personal-finance application that helps users track income, expenses, and financial transactions on their Android device.
+mLekha is a personal-finance application that helps users track income, expenses, and financial transactions on their Android device. 
 
 mLekha does not require users to create an account or sign in. Transaction and financial information is intended to be processed and stored locally on the user's device, rather than uploaded to a server operated by the developer.
 
